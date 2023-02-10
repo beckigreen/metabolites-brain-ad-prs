@@ -8,9 +8,7 @@ doi: [https://doi.org/10.1101/2022.01.29.22270098](https://doi.org/10.1101/2022.
 
 This repo contains analysis code for the paper [**Investigating associations between blood metabolites, later life brain imaging measures, and genetic risk for Alzheimer’s disease**](https://doi.org/10.1101/2022.01.29.22270098) - _Green et al_ 2023. This work is published in _Alzheimer's Research and Therapy_.
 
----
-
-### Repo structure
+#### Repo structure:
 
 ```
 ├── README.md
@@ -24,19 +22,14 @@ This repo contains analysis code for the paper [**Investigating associations bet
 ├── 7.pgs_analyses.R
 ├── 8.figure2.R
 ├── 9.figure3.R
-├── Figure1.pdf - analysis workflow
+├── Figure1.png - analysis workflow figure
 ```
 
 --- 
 
 ### Project workflow
-
-<div style="width: 30%">
-
-![](Figure1.pdf)
-
-</div>
-
+<img src="Figure1.png" width="70%"/>
+  
 ---
 
 ### Abstract
