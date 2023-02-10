@@ -14,6 +14,7 @@ This repo contains analysis code for the paper [**Investigating associations bet
 
 ```
 ├── README.md
+├── LICENSE.md
 ├── 0.prev_analysis-WGCNA_ORA.R 
 ├── 1.insight_met_analyses.R
 ├── 2.format_met_results.R
