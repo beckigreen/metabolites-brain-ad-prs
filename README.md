@@ -8,7 +8,7 @@ _Rebecca E. Green, Jodie Lord, Marzia A. Scelsi, Jin Xu, Andrew Wong, Sarah Naom
 
 ### Background
 
-This repo contains analysis code for the paper [**Investigating associations between blood metabolites, later life brain imaging measures, and genetic risk for Alzheimer’s disease**](https://doi.org/10.1101/2022.01.29.22270098) - _Green et al_ 2023. This work is published in _Alzheimer's Research and Therapy_.
+This repo contains analysis code for the paper [**Investigating associations between blood metabolites, later life brain imaging measures, and genetic risk for Alzheimer’s disease**](https://doi.org/10.1101/2022.01.29.22270098) - _Green et al_ 2023. This work is accepted at _Alzheimer's Research and Therapy_.
 
 #### Repo structure:
 
